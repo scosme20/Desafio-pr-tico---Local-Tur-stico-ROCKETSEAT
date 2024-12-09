@@ -1,0 +1,28 @@
+img {
+  width: 600px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 28px;
+  display: block;
+  margin: 0 auto; 
+}
+.center {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 20px; 
+}
+
+main {
+  width: 100%;
+}
+
+p {
+  color: red;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  margin: 36px 0;
+  background-color: #d9d9d9;
+}
